@@ -1,3 +1,3 @@
-# stat545_md_exploration test
+# stat545_participation
 
-This repo is part of a STAT 545 exercise to explore GitHub and markdown.
+This repo is for STAT 545 in-class exercises 
